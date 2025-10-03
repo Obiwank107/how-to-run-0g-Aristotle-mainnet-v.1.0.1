@@ -15,7 +15,7 @@ source $HOME/.bash_profile
 [ ! -d ~/go/bin ] && mkdir -p ~/go/bin
 ```
 
-# set vars in the < > as you need
+# set your moniker and port in the < > as you need
 ```
 echo "export MONIKER="<test>"" >> $HOME/.bash_profile
 echo "export OG_PORT="<26>"" >> $HOME/.bash_profile
