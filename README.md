@@ -19,7 +19,7 @@ source $HOME/.bash_profile
 ```
 echo "export MONIKER="<test>"" >> $HOME/.bash_profile
 echo "export OG_PORT="<26>"" >> $HOME/.bash_profile
-echo 'export PATH=$PATH:$HOME/galileo-used/bin' >> $HOME/.bash_profile
+echo 'export PATH=$PATH:$HOME/aristotle-used/bin' >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
 
